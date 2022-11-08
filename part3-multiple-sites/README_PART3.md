@@ -1,5 +1,6 @@
-# django-admin-multiple-sites-ex
-django-admin-multiple-sites-ex
+# part3-multiple-sites
+part3-multiple-sites
+link : [Setup Custom/Multiple Django Admin Sites - Django Admin Series - Part 3](https://www.youtube.com/watch?v=QCnefsgalF8&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO&index=3)
 
 # Test abstract
 1. Multi admin site test
