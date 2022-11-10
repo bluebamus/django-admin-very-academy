@@ -48,7 +48,7 @@ link : [Custom Login Page Template - Django Admin Series - Part 6
         site_header = 'Blog Admin Area'
         login_template = 'blog/admin/login.html'
 
-    blog_site = BlogAdminArea(name='BlogAdmin')
+    blog_site = BlogAdminArea(name='BlogAdmin') # 'name' parameter will be site name like apps_name
     blog_site.register(models.Post)
     ```
 
